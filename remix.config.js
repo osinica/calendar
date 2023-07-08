@@ -10,10 +10,6 @@ module.exports = {
     "redux",
   ],
   ignoredRouteFiles: ["**/.*"],
-  appDirectory: "app",
-  // assetsBuildDirectory: "public/build",
-  serverBuildPath: "function/server/build",
-  publicPath: "/build/",
   tailwind: true,
   serverModuleFormat: "cjs",
   future: {
