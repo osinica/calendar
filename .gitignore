@@ -6,3 +6,4 @@ node_modules
 .env
 function/**/*.js
 function/server/build
+prisma/*.db
